@@ -8,4 +8,4 @@ hashcat -a 0 \
         --status-timer=30 \
         -o md5_cracked.txt \
         md5crypt.txt \
-        words
+        ../words
