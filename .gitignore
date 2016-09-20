@@ -2,3 +2,5 @@ hashcat.pot
 hashcat.dictstat
 hashcat.log
 hashcat.restore
+stdout.log
+kernels/
