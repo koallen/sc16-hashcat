@@ -1,5 +1,6 @@
 hashcat.pot
 hashcat.dictstat
+hashcat.hcstat
 hashcat.log
 hashcat.restore
 stdout.log
